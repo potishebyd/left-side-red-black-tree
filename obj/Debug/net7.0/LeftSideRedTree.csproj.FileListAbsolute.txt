@@ -1,0 +1,14 @@
+C:\Users\kiril\Desktop\LeftSideRedTree\bin\Debug\net7.0\LeftSideRedTree.exe
+C:\Users\kiril\Desktop\LeftSideRedTree\bin\Debug\net7.0\LeftSideRedTree.deps.json
+C:\Users\kiril\Desktop\LeftSideRedTree\bin\Debug\net7.0\LeftSideRedTree.runtimeconfig.json
+C:\Users\kiril\Desktop\LeftSideRedTree\bin\Debug\net7.0\LeftSideRedTree.dll
+C:\Users\kiril\Desktop\LeftSideRedTree\bin\Debug\net7.0\LeftSideRedTree.pdb
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.AssemblyInfo.cs
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.dll
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\refint\LeftSideRedTree.dll
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.pdb
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\LeftSideRedTree.genruntimeconfig.cache
+C:\Users\kiril\Desktop\LeftSideRedTree\obj\Debug\net7.0\ref\LeftSideRedTree.dll
